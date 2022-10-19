@@ -5,3 +5,9 @@ The main.py can be used to calibrate the models.
 The calibrated parameters for the catchments studied is in the paramters folder.
 Normal model parameters are in the calibrated choosen folder
 Ensemble calibrated parameters are in the 220924 folder
+
+
+This code should be read in conjunciton with my final year report.
+
+Kind Regards,
+Bill (billpanthalany@gmail.com)
