@@ -1,0 +1,8 @@
+Area
+Print Name of catchment
+calibration start idx
+calibration length in days
+validation start idx
+validation length in days
+data start date
+data end date
